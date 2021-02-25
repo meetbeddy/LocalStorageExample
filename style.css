@@ -1,0 +1,24 @@
+body {
+  margin: auto;
+}
+
+.container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  height: auto;
+}
+
+.select,
+.favourite {
+  width: 50%;
+  height: 90vh;
+}
+
+footer {
+  padding: 10px 0;
+  background: #a9d6d2;
+  height: 40px;
+  font-size: 0.75em;
+}
